@@ -1,0 +1,22 @@
+{
+  "books": [
+    {
+      "note": "A0",
+      "title": "B0"
+    },
+    {
+      "note": "A1",
+      "title": "B1"
+    }
+  ],
+  "email": "A",
+  "event": {
+    "organizer": {
+      "email": "A",
+      "name": "B"
+    },
+    "title": "A"
+  },
+  "name": "B",
+  "tags": [1, 2]
+}

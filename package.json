@@ -1,0 +1,10 @@
+{
+  "name": "my-app",
+  "scripts": {
+    "dev": "nuxt"
+  },
+  "dependencies": {
+    "@0xcert/cert": "^1.0.0-rc8",
+    "nuxt": "^2.4.3"
+  }
+}
