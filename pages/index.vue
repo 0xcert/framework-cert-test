@@ -56,7 +56,7 @@ export default {
         ].join('');
       }).join('\n')
 
-      this.imprint = await cert.imprint(recipes)
+      this.imprint = await cert.imprint(JSON.parse(this.data))
     }
 
 
